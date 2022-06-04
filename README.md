@@ -1,8 +1,9 @@
 # Best-Amazon-Practice-Problems-List
 Amazon SDE Revision Sheet by <b>RIDDHI DUTTA</b>  | Best Amazon Practice Problems List | 30 Days Schedule . For More Info : https://www.youtube.com/watch?v=Y8Kzcw15sCs
 <hr>
-<p> Hi Visitor's 😃, I am taking this <b>30 Days Challenge by RIDDHI DUTTA </b> on <b> 04th June 2022 </b> . 
-  I will Using <b>Python</b> and Dedicating every day time from <b> 7pm to 11pm </b> on all the daywise schedule list given below</p> 
+<p> Hi Visitors 😃, I am taking this <b>30 Days Challenge set by RIDDHI DUTTA </b> to Practice <b> Best Amazon Practice Problems </b> on <b> 04th June 2022 </b> . 
+  I will Using <b>Python</b> and Dedicating every day time from <b> 7pm to 11pm </b> on the daywise schedule list given below</p> 
+  <p> If want to tag along with me DM on : <b> https://www.instagram.com/girl_in_thoughts_of_hackathons/ </b> </p>
 <hr>
 <b>Day 1</b>
 <ul>
